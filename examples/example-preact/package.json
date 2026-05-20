@@ -32,7 +32,7 @@
         "preact-fela": "^11.3.1",
         "preact-render-to-string": "^3.6.0",
         "webpack": "^2.6.1",
-        "webpack-dev-server": "^3.1.11"
+        "webpack-dev-server": "^5.2.4"
     },
     "babel": {
         "presets": [
